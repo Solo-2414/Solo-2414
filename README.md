@@ -1,8 +1,8 @@
 <div align="center">
   
   <!-- Animated Space Banner -->
-  <img src="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=2048&auto=format&fit=crop" width="100%" height="200" style="object-fit: cover; border-radius: 10px;" alt="Space Header"/>
-
+  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=2048&auto=format&fit=crop" width="100%" height="200" style="object-fit: cover; border-radius: 10px;" alt="Tech Header"/>
+  
   <br/><br/>
   
   <h1>Hi there 👋, I'm Daniel! (@Solo-2414)</h1>
