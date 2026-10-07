@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Animated Space Banner -->
-  <img src="https://cdn.pixabay.com/animation/2022/10/13/19/48/19-48-27-798_512.gif" width="100%" height="100%" style="object-fit: cover; border-radius: 10px;" alt="Space Header"/>
+  <img src="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=2048&auto=format&fit=crop" width="100%" height="200" style="object-fit: cover; border-radius: 10px;" alt="Space Header"/>
 
   <br/><br/>
   
