@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=00C634&width=435&lines=Hello+World!;Syntax+Error!;I'm+Daniel+Rodge+Caindoy;A+Freelancer+and+Tech+Connoisseur;Email+me+if+you're+interested)](https://git.io/typing-svg)
+
 # Hi there 👋, I'm Daniel! (@Solo-2414)
 
 ### 👨‍💻 3rd-Year IT Student | Backend Developer
